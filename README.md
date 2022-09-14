@@ -1,11 +1,6 @@
-- 👋 Hello, I’m Nicolas Nomdedeu a Javascript Developer, with bases in Node, React, Html and Solidity
-
+- 👋 Hello, I’m Nicolas Nomdedeu a Javascript Developer, with knowledge in Node, React, HTML and Solidity.
+- 
 From Argentina (instert flag) currently 22 years old and finishing my degree in Finance & Economics
 
-Interested on being part of the monetary revolution that Blockchain and Defi will create in society´s future
+I'm excited to be part of a monetary and digital revolution aka Defi & Blockchain, in all the many ways it will shape the future. 
 
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
